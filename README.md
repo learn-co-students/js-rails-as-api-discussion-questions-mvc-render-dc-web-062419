@@ -1,4 +1,4 @@
-# Discussion Questions: MVC and Rails Render
+# Discussion Questions: MVC and Rails Render.
 
 ## Objectives
 
